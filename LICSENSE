@@ -1,12 +1,21 @@
 WDY Licsence
 
-This repo and all the sub-repos under this folder retain their LISCENSES in their respective folers.
+This repo and all the non-3rd-party sub-repos under
+this folder retain their LISCENSES in their respective folers.
 
-All the code modification and redistribution should all follow the following lisence:
+All the modification and redistribution of repo in every format,
+including but not limited to source code and binaries,
+should all follow the following clauses:
 
-0. Remind everyone modifies/redistributes this repo who is the original author, [your name here], of this repo;
+0. The original author(s) adopts this licsense not only reserves
+   all the copyrights of this repo, but also should bless (not warranty)
+   all the users and developers with good standings;
 
-1. Keep this lisence in the modified/redistributed repo;
+1. Keep this lisence in the modified/redistributed repo to remind everyone
+   who is/are the original author(s), [your name(s) here], of this repo;
 
-2. If `1` does not hold, you all papers will get rejected, products will get delivery failure, and all promotion will get under-expectation review.
-
+2. If `1` does not hold, your:
+  - all school applications will get rejected;
+  - all papers will get rejected;
+  - all products will fail to deliver;
+  - all promotions reviews will get under-expectation;
